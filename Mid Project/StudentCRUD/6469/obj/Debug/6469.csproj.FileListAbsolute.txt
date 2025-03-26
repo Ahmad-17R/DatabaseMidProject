@@ -1,0 +1,38 @@
+C:\Users\pakcomp\Desktop\6469\6469\bin\Debug\6469.exe.config
+C:\Users\pakcomp\Desktop\6469\6469\bin\Debug\6469.exe
+C:\Users\pakcomp\Desktop\6469\6469\bin\Debug\6469.pdb
+C:\Users\pakcomp\Desktop\6469\6469\obj\Debug\6469.csproj.AssemblyReference.cache
+C:\Users\pakcomp\Desktop\6469\6469\obj\Debug\_6469.Form1.resources
+C:\Users\pakcomp\Desktop\6469\6469\obj\Debug\_6469.Properties.Resources.resources
+C:\Users\pakcomp\Desktop\6469\6469\obj\Debug\6469.csproj.GenerateResource.cache
+C:\Users\pakcomp\Desktop\6469\6469\obj\Debug\6469.csproj.CoreCompileInputs.cache
+C:\Users\pakcomp\Desktop\6469\6469\obj\Debug\6469.exe
+C:\Users\pakcomp\Desktop\6469\6469\obj\Debug\6469.pdb
+C:\Users\pakcomp\Desktop\6469\6469\obj\Debug\_6469.CLO.resources
+C:\Users\pakcomp\Desktop\6469\6469\obj\Debug\_6469.Rubric.resources
+C:\Users\pakcomp\Desktop\6469\6469\obj\Debug\_6469.StudentAttecdance.resources
+C:\Users\pakcomp\Desktop\6469\6469\obj\Debug\_6469.ClassAttendance.resources
+C:\Users\pakcomp\Desktop\6469\6469\obj\Debug\_6469.ManageAssessment.resources
+C:\Users\pakcomp\Desktop\6469\6469\obj\Debug\_6469.AssessmentComponent.resources
+C:\Users\pakcomp\Desktop\6469\6469\obj\Debug\_6469.MainForm.resources
+C:\Users\pakcomp\Desktop\6469\6469\obj\Debug\_6469.Rubric2.resources
+C:\Users\pakcomp\Desktop\6469\6469\obj\Debug\_6469.StudentResult.resources
+F:\semester 2\DB lab\Mid Project\StudentCRUD\6469\bin\Debug\6469.exe.config
+F:\semester 2\DB lab\Mid Project\StudentCRUD\6469\bin\Debug\6469.exe
+F:\semester 2\DB lab\Mid Project\StudentCRUD\6469\bin\Debug\6469.pdb
+F:\semester 2\DB lab\Mid Project\StudentCRUD\6469\obj\Debug\6469.csproj.AssemblyReference.cache
+F:\semester 2\DB lab\Mid Project\StudentCRUD\6469\obj\Debug\_6469.AssessmentComponent.resources
+F:\semester 2\DB lab\Mid Project\StudentCRUD\6469\obj\Debug\_6469.ClassAttendance.resources
+F:\semester 2\DB lab\Mid Project\StudentCRUD\6469\obj\Debug\_6469.CLO.resources
+F:\semester 2\DB lab\Mid Project\StudentCRUD\6469\obj\Debug\_6469.Form1.resources
+F:\semester 2\DB lab\Mid Project\StudentCRUD\6469\obj\Debug\_6469.MainForm.resources
+F:\semester 2\DB lab\Mid Project\StudentCRUD\6469\obj\Debug\_6469.ManageAssessment.resources
+F:\semester 2\DB lab\Mid Project\StudentCRUD\6469\obj\Debug\_6469.Properties.Resources.resources
+F:\semester 2\DB lab\Mid Project\StudentCRUD\6469\obj\Debug\_6469.Rubric.resources
+F:\semester 2\DB lab\Mid Project\StudentCRUD\6469\obj\Debug\_6469.Rubric2.resources
+F:\semester 2\DB lab\Mid Project\StudentCRUD\6469\obj\Debug\_6469.StudentAttecdance.resources
+F:\semester 2\DB lab\Mid Project\StudentCRUD\6469\obj\Debug\_6469.StudentResult.resources
+F:\semester 2\DB lab\Mid Project\StudentCRUD\6469\obj\Debug\6469.csproj.GenerateResource.cache
+F:\semester 2\DB lab\Mid Project\StudentCRUD\6469\obj\Debug\6469.csproj.CoreCompileInputs.cache
+F:\semester 2\DB lab\Mid Project\StudentCRUD\6469\obj\Debug\6469.exe
+F:\semester 2\DB lab\Mid Project\StudentCRUD\6469\obj\Debug\6469.pdb
